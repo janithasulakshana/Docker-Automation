@@ -16,7 +16,7 @@ Therefore I have write the github workflow file like below.
 5. Then run and test it locally ```docker run -d -p 3000:3000 node-app```
 6. Then inspect the ```build.yaml``` file and make sure to set DOCKERHUB_USERNAME and DOCKERHUB_TOKEN in the secrets section of github project.
 7. Make sure to create the token by logging at dokerhub and replace the DOCKERHUB_TOKEN by it.
-8. Finally replace the ```kalharacodes/node-app``` with relavant to your repository created in dockerhub.
+8. Finally replace the ```janithasulakshana/node-app``` with relavant to your repository created in dockerhub.
 9. Push the code to github and check for status!
 
 
