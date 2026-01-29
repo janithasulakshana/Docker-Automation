@@ -56,4 +56,4 @@ jobs:
 ```
 
 Feel free to play and learn github actions. Explore your own journey!
-A project by Janitha Sulakshana
+A project by K Janitha Sulakshana
